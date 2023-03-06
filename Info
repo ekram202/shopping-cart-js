@@ -1,0 +1,26 @@
+1- get parent box 
+2- loop items 
+
+
+
+
+======== add ======== 
+1- get buttons 
+2- make empty array 
+3- make loop and function to find item == id 
+4- check if item exist in cart ot not , if not exist => push and render again 
+
+
+
+======== update ======
+1- find item == id and make increase || decrease
+2- render 
+
+
+======== delete ======
+1- make filter 
+2- make render
+
+======   delete All    =========
+
+
